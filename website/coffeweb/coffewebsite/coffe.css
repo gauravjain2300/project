@@ -9,6 +9,7 @@ nav {
 }
 li {
   text-align: center;
+  font-style: italic;
 }
 
 ol {
@@ -23,6 +24,7 @@ ol {
 
 .container {
   background: url(../../../images/backgroundimage\ coffe.png);
+  border-image: fill 0 linear-gradient(#0001, #000);
   background-size: cover;
   background-repeat: no-repeat;
   padding-top: 100px;
