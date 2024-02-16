@@ -1,0 +1,50 @@
+@media (max-width: 1400px) {
+}
+@media (max-width: 1200px) {
+}
+@media (max-width: 992px) {
+  .bottle {
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    gap: 50px;
+  }
+  table {
+    left: 420px;
+  }
+  .facebook {
+    display: flex;
+    gap: 20px;
+  }
+}
+@media (max-width: 768px) {
+  .gaurav {
+    gap: 30px;
+    display: flex;
+    padding-top: 50px;
+    padding-bottom: 100px;
+  }
+  .Have-a {
+    justify-content: space-around;
+    display: flex;
+    text-align: center;
+    flex-direction: column;
+  }
+  .row {
+    display: flex;
+    justify-content: center;
+    align-content: center;
+    align-items: center;
+    /* gap: 20px; */
+    flex-direction: column;
+    position: relative;
+    /* margin-bottom: 100px; */
+  }
+  table {
+    left: 300px;
+  }
+}
+@media (max-width: 576px) {
+}
+@media (max-width: 376px) {
+}
